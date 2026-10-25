@@ -250,23 +250,3 @@ int main()
 
     return 0;
 }
-
-OUTPUT:
-============================================
-     STACK ADT - EXPRESSION CONVERTER
-============================================
-
-Enter an Infix Expression: (A+B)*C/A*B
-
---------------------------------------------
-             CONVERSION RESULT
---------------------------------------------
-Infix   : (A+B)*C/A*B
-Postfix : AB+C*A/B*
-Prefix  : *+AB/C*AB
---------------------------------------------
-Program executed successfully!🎊🎊
-============================================
-
-
-=== Code Execution Successful ===
